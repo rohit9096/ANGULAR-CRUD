@@ -1,0 +1,13 @@
+input.form-control.ng-pristine.ng-invalid {
+    border: 1px solid red !important;
+}
+input.form-control.ng-touched.ng-dirty.ng-valid {
+    border: 1px solid green;
+}
+tbody, td, tfoot, th, thead, tr {
+    
+    text-align: center;
+}
+.required {
+    color: red;
+  }
