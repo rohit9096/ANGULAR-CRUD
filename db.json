@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "Avtar": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "Name": "viraj Shivaji pisal",
+      "Email": "viraj@134",
+      "Dob": "1995-11-04",
+      "Country": "India"
+    },
+    {
+      "id": 3,
+      "Avtar": "https://www.gravatar.com/avatar/205e460b479e2e5b48aec07710c08d50",
+      "Name": "test",
+      "Email": "test@34",
+      "Dob": "1991-07-14",
+      "Country": "America"
+    },
+    {
+      "id": 6,
+      "Avtar": "https://i.pravatar.cc/150?img=56",
+      "Name": "viraj",
+      "Email": "viraj123",
+      "Dob": "1950-06-07",
+      "Country": "Italy"
+    },
+    {
+      "id": 9,
+      "Avtar": "https://i.pravatar.cc/150?img=59",
+      "Name": "ABC",
+      "Email": "ABC@12",
+      "Dob": "2013-07-12",
+      "Country": "America"
+    },
+    {
+      "id": 10,
+      "Avtar": "https://i.pravatar.cc/150?img=12",
+      "Name": "Viraj Shivaji Pisal",
+      "Email": "viraj@554",
+      "Dob": "2000-06-29",
+      "Country": "Brazil"
+    },
+    {
+      "id": 11,
+      "Avtar": "https://i.pravatar.cc/150?img=49",
+      "Name": "Vrj Pisal",
+      "Email": "Vrj@123",
+      "Dob": "2009-07-14",
+      "Country": "Spain"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
